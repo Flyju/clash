@@ -33,6 +33,8 @@ DOMAIN-SUFFIX,zq03.flyju.top
 DOMAIN-SUFFIX,mypc.flyju.top
 DOMAIN-SUFFIX,win2022.flyju.top
 DOMAIN-SUFFIX,win10.flyju.top
+DOMAIN-SUFFIX,yecaoyun.com,DIRECT
+IP-CIDR,83.229.121.74/32,no-resolve
 
 # 360
 DOMAIN-SUFFIX,360.com
