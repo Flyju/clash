@@ -26,13 +26,13 @@ IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
 # flyju
-DOMAIN-SUFFIX,fhnt.club,DIRECT
-DOMAIN-SUFFIX,verysync.cn,DIRECT
+DOMAIN-SUFFIX,fhnt.club
+DOMAIN-SUFFIX,verysync.cn
 DOMAIN-SUFFIX,.cn,DIRECT
 DOMAIN-SUFFIX,mypc.flyju.top
 DOMAIN-SUFFIX,win10.flyju.top
-DOMAIN-SUFFIX,yecaoyun.com,DIRECT
-DOMAIN-SUFFIX,jufly.top,DIRECT
+DOMAIN-SUFFIX,yecaoyun.com
+DOMAIN-SUFFIX,jufly.top
 IP-CIDR,83.229.121.74/32,no-resolve
 
 # 360
