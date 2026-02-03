@@ -35,6 +35,7 @@ IP-CIDR,223.6.6.6/32,no-resolve
 IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
+IP-CIDR,83.229.121.74
 
 # flyju
 DOMAIN-SUFFIX,fhnt.club
@@ -48,7 +49,6 @@ DOMAIN-SUFFIX,jujuai.top
 DOMAIN-SUFFIX,flyju.top
 DOMAIN-SUFFIX,sanliantuiguang.top
 DOMAIN-SUFFIX,mtab.cc
-IP-CIDR,83.229.121.74
 
 # 360
 DOMAIN-SUFFIX,360.com
